@@ -1,18 +1,18 @@
 [
   {
-    name : {
-      common : "Republic of Korea"
+    "name" : {
+      "common" : "Republic of Korea"
     },
-    flags : {
-      png : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
+    "flags" : {
+      "png" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
     }
   },
   {
-    name : {
-      common : "USA"
+    "name" : {
+      "common" : "USA"
     },
-    flags : {
-      png : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
+    "flags" : {
+      "png" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
     }
   }
 ]
